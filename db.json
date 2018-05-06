@@ -12,7 +12,7 @@
 	"city": "",
 	"state": "",
 	"issues": [
-		{	//short: long
+		{
 			"cable": "Bent Cable",
 			"fur": "Loose Fur",
 			"feathers": "Damaged Feathers",
@@ -22,7 +22,7 @@
 		}
 	],
 	"location_options": [
-		{	//short: long
+		{
 			"FLRF": "Florida Renaissance Festival",
 			"BARF": "Tampa Bay Renaissance Festival",
 			"AZRF": "Arizona Renaissance Festival",
