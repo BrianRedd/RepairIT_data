@@ -2,7 +2,7 @@
 	"companies": [
 		{
 			"id": "TMKD",
-			"company": "The Midsummer Knight’s Dream",
+			"name": "The Midsummer Knight’s Dream",
 			"logo": "https://raw.githubusercontent.com/BrianRedd/RepairIT_data/master/public/images/TMKD_Logo.png",
 			"primary_color": "#217346",
 			"secondary_color": "#3999B1",
