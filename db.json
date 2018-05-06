@@ -1,18 +1,20 @@
 {
 	"companies": [
 		{
-			"id": "MSKD",
-			"company": "Midsummer's Knight Dream",
-			"logo": "",
+			"id": "TMKD",
+			"company": "The Midsummer Knight’s Dream",
+			"logo": "https://raw.githubusercontent.com/BrianRedd/RepairIT_data/master/public/images/TMKD_Logo.png",
 			"primary_color": "#217346",
 			"secondary_color": "#3999B1",
-			"email": "",
-			"website": "",
-			"description":"",
-			"password": "",
-			"street": "",
-			"city": "",
-			"state": "",
+			"email": "me@rbrianredd.com",
+			"website": "https://fantasypuppet.com/",
+			"phone": "(352)732-3350",
+			"description":"We are the Original Fine Art Fantasy Pet. The Woodbaby. We have been Creating Woodbabies Since 1983. Each Woodbaby is Hand Made in our Studio.",
+			"password": "pUp3t5R0cK",
+			"street": "1421 NE 8th Ave Unit7-10",
+			"city": "Ocala",
+			"state": "FL",
+			"zip": "34470"
 			"issues": [
 				{
 					"cable": "Bent Cable",
