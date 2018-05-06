@@ -17,28 +17,28 @@
 			"zip": "34470",
 			"issues": [
 				{
-					"cable": "Bent Cable",
-					"fur": "Loose Fur",
-					"feathers": "Damaged Feathers",
-					"knob": "Broken Knob",
-					"breakage": "Breakage on Body (see details)",
-					"upgrade": "Upgrade (see details)"
+					"option": "Bent Cable",
+					"option": "Loose Fur",
+					"option": "Damaged Feathers",
+					"option": "Broken Knob",
+					"option": "Breakage on Body (see details)",
+					"option": "Upgrade (see details)"
 				}
 			],
 			"location_options": [
 				{
-					"FLRF": "Florida Renaissance Festival",
-					"BARF": "Tampa Bay Renaissance Festival",
-					"AZRF": "Arizona Renaissance Festival",
-					"SCRF": "Scarborough Renaissance Faire",
-					"GARF": "Georgia Renaissance Festival",
-					"TNRF": "Tennessee Renaissance Festival",
-					"Bristol": "Bristol Renaissance Faire",
-					"Sterling": "Sterling Renaissance Faire",
-					"MIRF": "Michigan Renaissance Festival",
-					"KCRF": "Kansas City Renaissance Festival",
-					"MARF": "Maryland Renaissance Festival",
-					"CARF": "Carolina Renaissance Festival"
+					"loc": "Florida Renaissance Festival",
+					"loc": "Tampa Bay Renaissance Festival",
+					"loc": "Arizona Renaissance Festival",
+					"loc": "Scarborough Renaissance Faire",
+					"loc": "Georgia Renaissance Festival",
+					"loc": "Tennessee Renaissance Festival",
+					"loc": "Bristol Renaissance Faire",
+					"loc": "Sterling Renaissance Faire",
+					"loc": "Michigan Renaissance Festival",
+					"loc": "Kansas City Renaissance Festival",
+					"loc": "Maryland Renaissance Festival",
+					"loc": "Carolina Renaissance Festival"
 				}
 			]
 		}
