@@ -1,0 +1,40 @@
+{
+	"id": "MSKD",
+	"company": "Midsummer's Knight Dream",
+	"logo": "",
+	"primary_color": "#217346",
+	"secondary_color": "#3999B1",
+	"email": "",
+	"website": "",
+	"description":"",
+	"password": "",
+	"street": "",
+	"city": "",
+	"state": "",
+	"issues": [
+		{	//short: long
+			"cable": "Bent Cable",
+			"fur": "Loose Fur",
+			"feathers": "Damaged Feathers",
+			"knob": "Broken Knob",
+			"breakage": "Breakage on Body (see details)",
+			"upgrade": "Upgrade (see details)"
+		}
+	],
+	"location_options": [
+		{	//short: long
+			"FLRF": "Florida Renaissance Festival",
+			"BARF": "Tampa Bay Renaissance Festival",
+			"AZRF": "Arizona Renaissance Festival",
+			"SCRF": "Scarborough Renaissance Faire",
+			"GARF": "Georgia Renaissance Festival",
+			"TNRF": "Tennessee Renaissance Festival",
+			"Bristol": "Bristol Renaissance Faire",
+			"Sterling": "Sterling Renaissance Faire",
+			"MIRF": "Michigan Renaissance Festival",
+			"KCRF": "Kansas City Renaissance Festival",
+			"MARF": "Maryland Renaissance Festival",
+			"CARF": "Carolina Renaissance Festival"
+		}
+	] 
+}
