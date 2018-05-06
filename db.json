@@ -17,28 +17,90 @@
 			"zip": "34470",
 			"issues": [
 				{
-					"option_0": "Bent Cable",
-					"option_1": "Loose Fur",
-					"option_2": "Damaged Feathers",
-					"option_3": "Broken Knob",
-					"option_4": "Breakage on Body (see details)",
-					"option_5": "Upgrade (see details)"
+					"id": 0,
+					"option": "Bent Cable"
+				},
+				{
+					"id": 1,
+					"option": "Loose Fur"
+				},
+				{
+					"id": 2,
+					"option": "Damaged Feathers"
+				},
+				{
+					"id": 3,
+					"option": "Broken Knob"
+				},
+				{
+					"id": 4,
+					"option": "Breakage on Body (see details)"
+				},
+				{
+					"id": 5,
+					"option": "Upgrade (see details)"
 				}
 			],
-			"location_options": [
+			"locations": [
 				{
-					"loc_0": "Florida Renaissance Festival",
-					"loc_1": "Tampa Bay Renaissance Festival",
-					"loc_2": "Arizona Renaissance Festival",
-					"loc_3": "Scarborough Renaissance Faire",
-					"loc_4": "Georgia Renaissance Festival",
-					"loc_5": "Tennessee Renaissance Festival",
-					"loc_6": "Bristol Renaissance Faire",
-					"loc_7": "Sterling Renaissance Faire",
-					"loc_8": "Michigan Renaissance Festival",
-					"loc_9": "Kansas City Renaissance Festival",
-					"loc_10": "Maryland Renaissance Festival",
-					"loc_11": "Carolina Renaissance Festival"
+					"id": 0,
+					"abbr" : "FLRF",
+					"name": "Florida Renaissance Festival"
+				},
+				{
+					"id": 1,
+					"abbr": "BARF",
+					"name": "Tampa Bay Renaissance Festival"
+				},
+				{
+					"id": 2,
+					"abbr": "AZRF",
+					"name": "Arizona Renaissance Festival"
+				},
+				{
+					"id": 3,
+					"abbr": "SRF",
+					"name": "Scarborough Renaissance Faire"
+				},
+				{
+					"id": 4,
+					"abbr": "GARF",
+					"name": "Georgia Renaissance Festival"
+				},
+				{
+					"id": 5,
+					"abbr": "TNRF",
+					"name": "Tennessee Renaissance Festival"
+				},
+				{
+					"id": 6,
+					"abbr": "Bristol",
+					"name": "Bristol Renaissance Faire"
+				},
+				{
+					"id": 7,
+					"abbr": "Sterling",
+					"name": "Sterling Renaissance Faire"
+				},
+				{
+					"id": 8,
+					"abbr": "MIRF",
+					"name": "Michigan Renaissance Festival"
+				},
+				{
+					"id": 9,
+					"abbr": "KCRF",
+					"name": "Kansas City Renaissance Festival"
+				},
+				{
+					"id": 10,
+					"abbr": "MDRF",
+					"name": "Maryland Renaissance Festival"
+				},
+				{
+					"id": 11,
+					"abbr": "CARF",
+					"name": "Carolina Renaissance Festival"
 				}
 			]
 		}
