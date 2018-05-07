@@ -6,8 +6,13 @@
 			"logo": "https://raw.githubusercontent.com/BrianRedd/RepairIT_data/master/public/images/TMKD_Logo.png",
 			"colors": [
 				{
-					"primary": "217346",
-					"secondary": "3999B1"
+					"id": 0,
+					"type": "primary",
+					"hex": "217346"
+				},{
+					"id": 1,
+					"type": "secondary",
+					"hex": "3999B1"
 				}
 			],
 			"email": "me@rbrianredd.com",
