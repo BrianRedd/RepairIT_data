@@ -6,8 +6,8 @@
 			"logo": "https://raw.githubusercontent.com/BrianRedd/RepairIT_data/master/public/images/TMKD_Logo.png",
 			"colors": [
 				{
-					"primary": "#217346",
-					"secondary": "#3999B1"
+					"primary": "217346",
+					"secondary": "3999B1"
 				}
 			],
 			"email": "me@rbrianredd.com",
