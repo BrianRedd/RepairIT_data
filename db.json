@@ -8,11 +8,11 @@
 				{
 					"id": 0,
 					"type": "primary",
-					"hex": "217346"
+					"hex": "#3999B1"
 				},{
 					"id": 1,
 					"type": "secondary",
-					"hex": "3999B1"
+					"hex": "#217346"
 				}
 			],
 			"email": "me@rbrianredd.com",
