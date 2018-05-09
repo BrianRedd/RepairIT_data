@@ -25,30 +25,12 @@
 			"state": "FL",
 			"zip": "34470",
 			"issues": [
-				{
-					"id": 0,
-					"option": "Bent Cable"
-				},
-				{
-					"id": 1,
-					"option": "Loose Fur"
-				},
-				{
-					"id": 2,
-					"option": "Damaged Feathers"
-				},
-				{
-					"id": 3,
-					"option": "Broken Knob"
-				},
-				{
-					"id": 4,
-					"option": "Breakage on Body (see details)"
-				},
-				{
-					"id": 5,
-					"option": "Upgrade (see details)"
-				}
+				"Bent Cable",
+				"Loose Fur",
+				"Damaged Feathers",
+				"Broken Knob",
+				"Breakage on Body (see details)",
+				"Upgrade (see details)"
 			],
 			"locations": [
 				{
