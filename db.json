@@ -33,66 +33,18 @@
 				"Upgrade (see details)"
 			],
 			"locations": [
-				{
-					"id": 0,
-					"abbr" : "FLRF",
-					"name": "Florida Renaissance Festival"
-				},
-				{
-					"id": 1,
-					"abbr": "BARF",
-					"name": "Tampa Bay Renaissance Festival"
-				},
-				{
-					"id": 2,
-					"abbr": "AZRF",
-					"name": "Arizona Renaissance Festival"
-				},
-				{
-					"id": 3,
-					"abbr": "SRF",
-					"name": "Scarborough Renaissance Faire"
-				},
-				{
-					"id": 4,
-					"abbr": "GARF",
-					"name": "Georgia Renaissance Festival"
-				},
-				{
-					"id": 5,
-					"abbr": "TNRF",
-					"name": "Tennessee Renaissance Festival"
-				},
-				{
-					"id": 6,
-					"abbr": "Bristol",
-					"name": "Bristol Renaissance Faire"
-				},
-				{
-					"id": 7,
-					"abbr": "Sterling",
-					"name": "Sterling Renaissance Faire"
-				},
-				{
-					"id": 8,
-					"abbr": "MIRF",
-					"name": "Michigan Renaissance Festival"
-				},
-				{
-					"id": 9,
-					"abbr": "KCRF",
-					"name": "Kansas City Renaissance Festival"
-				},
-				{
-					"id": 10,
-					"abbr": "MDRF",
-					"name": "Maryland Renaissance Festival"
-				},
-				{
-					"id": 11,
-					"abbr": "CARF",
-					"name": "Carolina Renaissance Festival"
-				}
+				"Florida Renaissance Festival",
+				"Tampa Bay Renaissance Festival",
+				"Arizona Renaissance Festival", 
+				"Scarborough Renaissance Faire", 
+				"Georgia Renaissance Festival", 
+				"Tennessee Renaissance Festival", 
+				"Bristol Renaissance Faire", 
+				"Sterling Renaissance Faire", 
+				"Michigan Renaissance Festival",
+				"Kansas City Renaissance Festival",
+				"Maryland Renaissance Festival",
+				"Carolina Renaissance Festival"
 			]
 		}
 	]
