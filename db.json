@@ -47,7 +47,11 @@
 				"Tennessee Renaissance Festival"
 			],
 			"initialOrderNumber": 1006,
-			"productType": "puppet"
+			"productType": "puppet",
+			"requiredPhotos": [
+				"Front",
+				"Side"
+			]
 		}
 	]
 }
